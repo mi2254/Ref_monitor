@@ -1,4 +1,10 @@
-
+TYPE="type"
+ARGS="args"
+RETURN="return"
+EXCP="exceptions"
+TARGET="target"
+FUNC="func"
+OBJC="objc"
 
 class ABFile():
   def __init__(self,filename,create):
